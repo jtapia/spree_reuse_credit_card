@@ -27,6 +27,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'database_cleaner'
   s.add_development_dependency 'launchy'
-  s.add_development_dependency 'sass-rails', '~> 3.2'
-  s.add_development_dependency 'coffee-rails', '~> 3.2'
+  # s.add_development_dependency 'sass-rails', '~> 3.2'
+  # s.add_development_dependency 'coffee-rails', '~> 3.2'
 end

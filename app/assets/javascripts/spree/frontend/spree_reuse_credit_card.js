@@ -1,3 +1,4 @@
+//= require spree/frontend
 //= require jquery.alerts/jquery.alerts
 //= require_self
 
