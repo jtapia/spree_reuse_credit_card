@@ -1,4 +1,3 @@
-//= require jquery.alerts/jquery.alerts
 //= require_self
 
 var creditCardDeleteCallback=$.noop();
